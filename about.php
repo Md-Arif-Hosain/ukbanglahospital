@@ -23,7 +23,7 @@
                     <div class="aboutus">
                         <div class="col-6">
                             <div class="About order-2">
-                                <h1>UK-Bangla Hospital Ltd Change.</h1>
+                                <h1>UK-Bangla Hospital Ltd.</h1>
                                 <h3>Your 24/7 health partner</h3>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
