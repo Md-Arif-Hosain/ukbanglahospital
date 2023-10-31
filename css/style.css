@@ -1,0 +1,482 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.col-1 {width: 8.33%; float: left;}
+.col-2 {width: 16.66%; float: left;}
+.col-3 {width: 25%; float: left;}
+.col-4 {width: 33.33%; float: left;}
+.col-5 {width: 41.66%; float: left;}
+.col-6 {width: 50%; float: left;}
+.col-7 {width: 58.33%; float: left;}
+.col-8 {width: 66.66%; float: left;}
+.col-9 {width: 75%; float: left;}
+.col-10 {width: 83.33%; float: left;}
+.col-11 {width: 91.66%; float: left;}
+.col-12 {width: 100%; float: left;}
+
+.clearfix{
+	clear: both;
+}
+.container{
+    max-width: 1366px;
+    margin: 0 auto;  
+}
+
+/* Stiky Header  */
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+.sticky + .content {
+    padding-top: 102px;
+  }
+  /* End Stiky Header */
+
+/* Start Java All Button */
+
+  #department #more {
+      display: none;
+  }
+  #department #mor {
+      display: none;
+  }
+  #department #mo {
+      display: none;
+  }
+  #department #mored {
+      display: none;
+  }
+  #department #moree {
+    display: none;
+}
+#department #morei {
+    display: none;
+}
+#department #moreo {
+    display: none;
+}
+#department #morel {
+    display: none;
+}
+/* About page  */
+  #abouts {
+    display: none;
+}
+
+ /* End Java All button */
+
+/*Top bar start*/
+.topbar {
+    background-color: #12BBBE;
+    overflow: hidden;
+    color: black;
+    padding: 5px 0px;
+}
+
+.topbar .name a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px 10px;
+}
+.topbar .socialicon a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px 10px;
+
+}
+.topbar .socialicon {
+    display: flex;
+    justify-content: end;
+    margin-right: 14px;
+}
+.topbar .line{
+    color: navajowhite;
+}
+.topbar h3{
+    color: white;
+    font-size: 16px;
+}
+.topbar .socialicon a:hover{
+color:#970283 ;
+}
+/*Top bar End*/
+
+/* Logo Start */
+.header {
+    /* background-image: linear-gradient(to left,#f40bcd, #028197); */
+    background: #028197;
+    overflow: hidden;
+    z-index: 999999;
+}
+.header .manu .logo img {
+    height: 67px;
+    margin-bottom: -8px;
+    max-width: 142px;
+    margin: 5px 0px 0px 0px;
+    margin-right: 50px;
+    color: white;
+    background-color: white;
+}
+/* Logo End */
+/* Manu Start */
+.header .manu .nav ul{
+ list-style: none;
+}
+.header .manu .nav ul li{
+ display: inline-block;
+ margin-top: 27px;
+}
+.header .manu .nav ul li a {
+    text-decoration: none;
+    padding: 23px;
+    color: white;
+    font-size: 22px;
+}
+.header .nav ul li a:hover {
+    background-color: #970283;
+}
+.header .button {
+    padding: 16px;
+    border: 2px;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 132px;
+    height: 20px;
+    background-color: #12BBBE;
+    margin-top: 12px;
+    padding-top: 9px;
+    margin-left: 50px;
+}
+.header .button ul{
+    list-style: none;
+}
+.header .button ul li a{
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+}
+.header .button:hover {
+    background-color: #970283;
+}
+/* Manu End*/
+
+/* Mobile Manu */
+ #mobile-manu{ 
+    display: none;
+}
+.mobileIcon{
+    display: none;
+}
+.mobaile-manu{
+    position: relative;
+}
+/* ENd Mobaile manu */
+
+
+/* Start Slider */
+.slideshow{
+   margin-bottom: -8px;
+}
+.slideshow img{
+    height: 645px;
+}
+
+.slideshow .text{
+    margin-left: 5%;
+}
+
+.slideshow .dot{
+    color: red;
+    background-color: #12e5ecc5;
+}
+/* Start Backend */
+.backend .text button {
+    font-weight: bold;
+    font-size: 25px;
+    /* border: 1px solid white; */
+    border: none;
+    width: 24%;
+    margin: 0px 5px;
+    padding: 17px;
+    background: #028197;
+}
+.backend .text button:hover{
+ background-color: #970283;
+}
+.backend {
+    background-color: #12BBBE;
+    overflow: hidden;
+    margin-top: -45px;
+}
+.backend .text a{
+    text-decoration: none;
+    color: #028197;
+    color: white;
+}
+
+/* Start About Page */
+.about{
+    background-color: #12BBBE;
+    overflow: hidden;
+}
+.about .aboutus {
+    margin-top: 75px;
+    color: black;
+    margin-left: 10px;
+}
+.about .aboutus h1{
+    margin-top: 10px;
+}
+.about .aboutus h3{
+    margin-top: 10px;
+}
+.about .aboutus p {
+    margin-top: 30px;
+    font-size: 19px;
+    line-height: 36px;
+    margin-right: 32px;
+    color: black;
+}
+.about .aboutus img{
+    height: 460px;
+    margin-bottom: 40px;
+}
+.about .aboutus button {
+    padding: 15px;
+    margin-top: 27px;
+    margin: 8px;
+    border: none;
+    margin-top: 17px;
+    color: white;
+    background-color: #028197;
+    /* border-radius: 15px; */
+}
+.about .aboutus button:hover{
+    background-color: #970283;
+   }
+/* End About Us */
+
+/*Start Our Department*/
+.department .ment h1 {
+    text-align: center;
+    margin: 45px;
+    font-size: 43px;
+}
+.department .ment p{
+    text-align: justify;
+}
+.department .ment h2 {
+    text-align: center;
+    margin: 26px;
+    color: black;
+}
+.department .ment .col-3 {
+    height: 333px;
+    background-color: #12BBBE;
+    max-width: 275px;
+    padding: 22px;
+    margin: 11px;
+    text-align: center;
+    border-radius: 18px;
+}
+
+.department .ment .fa-solid {
+    font-size: 70px;
+    border-radius: 183px;
+    color: #084a67;
+    padding: 13px;
+}
+.department .ment p {
+    margin-top: 10px;
+    line-height: 27px;
+    font-size: 18px;
+    color:black;;
+}
+.department .ment button {
+    padding: 8px;
+    border: 2px;
+    margin-top: 4px;
+    /* border-radius: 8px; */
+    color: white;
+    background-color: #028197;
+}
+.department .ment button:hover{
+    background-color: #970283;
+   }
+/*End Department*/
+
+
+/*Start Our Services */
+.service {
+    background-color: #e1ebeb;
+    overflow: hidden;
+    height: 448px;
+    margin: 38px 0px 0px 0px;
+}
+.service .help h2 {
+    text-align: center;
+    margin: 45px;
+    font-size: 50px;
+}
+.service .help .col-3 {
+    background-color: #12BBBE;
+    padding:36px;
+    color: white;
+    margin: 15px;
+}
+.service .help .fa-solid{
+    color: #040386;
+    margin-right: 17px;
+}
+
+/* End Our Services */
+
+
+
+/* Start Our Doctors */
+.doctors .col-3{
+    margin-bottom: 40px;
+}
+.doctors .team h1{
+    text-align: center;
+    margin: 45px;
+    font-size: 43px;
+}
+.doctors .team .text h2 {
+    width: 308px;
+    margin-top: 15px;
+    text-align: center;
+    color: #229dd1;
+}
+.doctors .team .text h3 {
+    text-align: center;
+    width: 308px;
+    margin-top: 10px;
+}
+.doctors .team .text h4 {
+    text-align: center;
+    width: 308px;
+}
+.doctors .team .item img {
+    height: 251px;
+    border-radius: 30px;
+    width: 327px;
+}
+/*End Our Doctors */
+
+/* Start Contact Us */
+.contact{
+    background-color: rgb(145, 155, 155);
+    overflow: hidden;
+}
+.contact .cont{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.contact .cont h1{
+margin-bottom: 20px;
+}
+.contact .cont h3{
+    margin-bottom: 20px;
+    color:black;
+}
+.contact .cont form input {
+    width: 260px;
+    margin: 8px;
+    padding: 12px;
+}
+.contact .cont form input[type=submit] {
+    width: 22%;
+    margin: 8px;
+    padding: 12px;
+    margin-left: 36px;
+    border: none;
+    color: white;
+    background-image: linear-gradient(#f70db1, #010a16);
+    margin-bottom: 40px;
+}
+.contact .cont .msg input {
+    width: 76%;
+    margin: 8px;
+    padding: 45px;
+}
+.contact .cont .address h3 {
+    text-align: justify;
+    margin-left: 50px;
+}
+.contact .cont .fa-solid {
+    font-size: 26px;
+    color: white;
+    padding: 18px;
+    margin-top: 23px;
+    background-color: #c712c7;
+    border-radius: 206px;
+    text-align: center;
+}
+/* End Contact us */
+
+
+/*Start Footer*/
+.footer {
+    background-color: black;
+    overflow: hidden;
+    color: white;
+}
+.footer .foot h1{
+ margin-top: 40px;
+ margin-bottom: 20px;
+}
+.footer .foot p {
+    font-size: 18px;
+    line-height: 40px;
+    color: white;
+}
+.footer .foot p a{
+    color: white;
+    text-decoration: none;
+}
+.footer h4{
+    text-align: center;
+    margin: 20px;
+}
+/*End Footer*/
+
+
+
+/* Start Registration page css */
+
+/*Top Button*/
+
+#myonBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+/* End Registration page css */

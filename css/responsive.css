@@ -1,0 +1,1754 @@
+/*Responsive All Media Quaries*/
+/*Destop and Laptop*/
+/*Inspact kore kore css add korte hobe,*/
+
+@media (max-width:2000px) {
+    .about .aboutus img {
+        width: 100%;
+    }
+}
+@media (max-width: 1900px) {
+    .about .aboutus img {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 1585px) {
+    .header .button {
+        margin-left: 40px;
+    }
+    .about .aboutus img {
+        width: 92%;
+    }
+
+    .department .ment .col-3 {
+        max-width: 260px;
+    } 
+
+    .doctors .team .item img {
+        width: 299px;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .topbar .name{
+        margin-left: 41px;
+    }
+    .header .manu .logo img {
+        margin-left: 61px;
+    }
+
+    .about .aboutus .About {
+        margin-left: 50px;
+    }
+
+    .about .aboutus img {
+        width: 90%;
+    }
+    .service .help .col-3 {
+        height: 39px;
+        padding: 33px;
+        margin: 14px;
+    }
+    .help {
+        margin-left: 36px;
+    }
+    .footer .foot {
+        margin-left: 20px;
+    }
+    .header .button {
+        margin-left: 29px;
+    }
+    .ment {
+        margin-left: 31px;
+    }
+    .doctors .team .item img {
+        margin: 20px;
+    }
+    .footabout {
+        margin-left: 51px;
+    }
+    .social {
+        margin-right: 224px;
+    }
+    .backend .text button {
+        width: 23%;
+        font-size: 22px; 
+    }
+    .backend .text {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1330px) {
+    .department .ment .col-3 {
+        max-width: 237px;
+    }
+    .help {
+        margin-left: 31px;
+    }
+    .service .help .col-3 {
+        padding: 26px;
+        line-height: 38px;
+        height: 55px;
+    }
+    .contact .cont .msg input {
+        width: 78%;
+    }
+
+    .header .manu .nav ul li a {
+        padding: 18px;
+        font-size: 20px;
+    }
+    .backend .text button {
+        font-size: 22px;
+        width: 22%;
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width: 1287px) {
+    .header .manu .nav ul li a {
+        font-size: 17px;
+    }
+    .department .ment .col-3 {
+        max-width: 244px;
+    }
+    .service .help .col-3 {
+        padding: 26px;
+        height: 64px;
+        margin-bottom: 14px;
+    }
+
+    .doctors .team .item img {
+        width: 289px;
+        margin: -8px;
+        padding: 18px;
+    }
+
+    .contact .cont .msg input {
+        width: 80%;
+    }
+
+    .footer .foot .footabout {
+        margin-left: 5px;
+    }
+    .backend .text button {
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width: 1267px) {
+    .department .ment .col-3 {
+        max-width: 234px;
+    }
+    .contact .cont .msg input {
+        width: 82%;
+    }
+
+    .service .help .col-3 {
+        margin-left: 25px;
+        margin-bottom: 17px;
+    }
+
+    .social {
+        margin-right: 46px;
+    }
+}
+
+@media (max-width:1263px) {
+    .contact .cont form input {
+        width: 37%;
+        margin: 8px;
+        padding: 16px;
+    }
+    .contact .cont .msg input {
+        width: 74%;
+    }
+}
+
+@media (max-width: 1250px) {
+    .department .ment .col-3 {
+        padding: 17px;
+        margin: 8px;
+        margin-left: 21px;
+    }
+
+    .department .ment .col-3 {
+        height: 345px;
+    }
+    .backend .text button {
+        font-size: 19px;
+    }
+    .backend {
+        margin-top: -37px;
+    }
+}
+
+@media (max-width: 1232px) {
+    .department .ment .col-3 {
+        padding: 11px;
+        margin: 8px;
+        margin-left: 12px;
+    }
+    .department .ment .col-3 {
+        max-width: 249px;
+    }
+    .ment {
+        margin-left: 25px;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+    .doctors .team .text h2 {
+        width: 308px;
+    }
+
+    .header .button {
+        margin-left: -4px;
+    }
+
+    .doctors .team .text h3 {
+        width: 282px;
+    }
+
+    .doctors .team .item img {
+        height: 238px;
+        width: 268px;
+    }
+    .contact .cont .msg input {
+        width: 74%;
+    }
+    .header .button {
+        margin-left: 12px;
+    }
+
+    .service .help .fa-solid {
+        margin-right: 5px;
+    }
+
+    .service .help .col-3 {
+        padding: 24px;
+        margin: 12px;
+        margin-bottom: 22px;
+    }
+    .service {
+        height: 423px;
+    }
+    .ment {
+        margin-left: 14px;
+    }
+    .help {
+        margin-left: 51px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .doctors .team .item img {
+        width: 314px;
+        margin-left: 32px;
+    }
+    .team {
+        margin: 46px;
+    }
+    .department .ment .col-3 {
+        max-width: 244px;
+    }
+    .address {
+        margin-top: 32px;
+    }
+}
+
+@media screen and (max-width: 1171px) {
+    .department .ment .col-3 {
+        height: 358px;
+        max-width: 250px;
+        padding: 8px;
+        margin: 8px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .header .button {
+        margin-left: -1px;
+    }
+    .about .aboutus button {
+        margin-bottom: 30px;
+        margin-top: 13px;
+    }
+
+    .department .ment .col-3 {
+        max-width: 242px;
+    }
+    .doctors .team .text h2 {
+        width: 300px;
+    }
+
+    .doctors .team .text h3 {
+        width: 272px;
+    }
+
+    .doctors .team .item img {
+        height: 256px;
+        width: 298px;
+    }
+    .contact .cont .msg input {
+        width: 73%;
+    }
+    .footer .foot {
+        margin-left: 59px;
+    }
+    .backend .text button {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:1109px) {
+    .doctors .team .item img {
+        height: 256px;
+        width: 298px;
+        margin-left: -12px;
+    }
+    .department .ment .col-3 {
+        max-width: 232px;
+        height: 374px;
+    }
+    .backend .text button {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .header .manu .nav ul li {
+        margin-top: 27px;
+    }
+    .header .button {
+        margin-left: -14px;
+    }
+    .header .manu .nav ul li a {
+        font-size: 17px;
+        padding: 12px;
+    }
+    .service .help .col-3 {
+        font-size: 12px;
+    }
+    .department .ment .col-3 {
+        padding: 5px;
+        margin: 7px;
+    }
+}
+
+@media screen and (max-width: 1053px) {
+    .department .ment .col-3 {
+        max-width: 226px;
+    }
+    .topbar .name a {
+        font-size: 18px;
+    }
+    .topbar .socialicon a {
+        font-size: 18px;
+    }
+    .backend .text button {
+        font-size: 16px;
+        margin: 0px 3px;
+        padding: 14px;
+    }
+}
+
+/*Tab*/
+@media screen and (max-width: 1024px) {
+    .header .button {
+        margin-left: -19px;
+    }
+    .topbar {
+        padding: 5px 0px;
+    }
+    .department .ment .col-3 {
+        max-width: 217px;
+        height: 393px;
+    }
+    .doctors .team .item img {
+        width: 299px;
+    }
+    .contact .cont .msg input {
+        width: 73%;
+    }
+
+    .footer .foot p {
+        font-size: 15px;
+        text-align: justify;
+    }
+    .footer .foot .address p {
+        padding: 16px;
+    }
+
+    .footer .foot .address {
+        padding-right: 12px;
+    }
+
+    .footer .foot .social {
+        margin-left: 246px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .department .ment .col-3 {
+        max-width: 208px;
+        height: 393px;
+    }
+    .header .button {
+        margin-left: -36px;
+    }
+    .topbar .name h3 {
+        font-size: 12px;
+    }
+    .help {
+        margin-left: 29px;
+    }
+    .topbar .search ul li {
+        margin-left: -27px;
+        padding: 16px;
+        font-size: 14px;
+    }
+    .doctors .team .item img {
+        width: 280px;
+        margin-left: -14px;
+    }
+    .backend .text button {
+        padding: 12px;
+    }
+}
+@media screen and (max-width: 945px) {
+    .topbar .email {
+        margin-right: -69px;
+    }
+    .header .button {
+        margin-left: -31px;
+    }
+    .backend .text button {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 939px) {
+    .header .button {
+        max-width: 113px;
+        margin-left: -23px;
+    }
+    .department .ment .col-3 {
+        max-width: 192px;
+         margin: 7px;
+        height: 420px;
+        }
+        .about .aboutus img {
+            margin-top: 91px;
+        }
+        .about .aboutus h1 {
+            margin-top: -14px;
+        }
+        .doctors .team .item img {
+            width: 266px;
+            margin-left: -18px;
+        }
+        .doctors .team .text h4 {
+            width: 285px;
+        }
+    .service .help .col-3 {
+        padding: 22px;
+        margin: 7px;
+    }
+    .contact .cont .msg input {
+        width: 73%;
+    }
+    .service {
+        height: 393px;
+    }
+    .footer .foot h1 {
+        font-size: 27px;
+    }
+    .footer .foot .address p {
+        padding: 0px;
+    }
+    .backend .text a {
+        margin-right: -12px;
+    }
+}
+@media (max-width:926px){
+    .header .button {
+        max-width: 113px;
+        margin-left: -14px;
+    }
+    .header .manu .logo img {
+    max-width: 84px;
+}
+.topbar .email {
+    margin-left: -17px;
+}
+.topbar .line{
+    display: none;
+}
+}
+
+@media screen and (max-width: 900px) {
+    .department .ment .col-3 {
+        max-width: 309px;
+        padding: 20px;
+        margin: 11px;
+        height: 388px;
+    }
+    .doctors .team .item img {
+        width: 247px;
+    }
+    .doctors .team .text h4 {
+        width: 268px;
+    }
+    .doctors .team .text h2 {
+        width: 260px;
+    }
+    .header .manu .nav ul li a {
+    font-size: 16px;
+    padding: 8px;
+}
+.header .manu .logo img {
+    max-width: 75px;
+}
+}
+
+@media screen and (max-width: 879px) {
+    .topbar .name a {
+        font-size: 16px;
+    }
+    .header .button {
+        margin-left: -29px;
+    }
+    .contact .cont form input {
+        width: 87%;
+    }
+    .topbar .search ul li {
+        margin: -30px;
+        padding-top: 33px;
+        font-size: 16px;
+        padding-left: 53px;
+    }
+    .contact .cont form input[type=submit] {
+        width: 31%;
+    }
+    
+    .footer .foot .social {
+        margin-left: 204px;
+    }
+    .backend .text a {
+        margin-right: -12px;
+        margin-left: -12px;
+    }
+}
+@media (max-width:845px){
+    .header .button {
+        margin-top: 21px;
+        padding: 9px;
+        max-width: 113px;
+    }
+    .header .button {
+        margin-left: -12px;
+    }
+    .doctors .team .item img {
+        width: 342px;
+    }
+    .doctors .team .text h2 {
+        width: 305px;
+    }
+    .doctors .team .text h4 {
+        width: 306px;
+    }
+    .doctors .team .text h3 {
+        width: 294px;
+    }
+    .contact .cont form input {
+        width: 88%;
+    }
+    .backend .text button {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    span.text-body {
+        display: none;
+    }
+    .topbar .email {
+        display: inline-block;
+    }
+    .topbar .name a {
+        width: 100%;
+    }
+    .topbar .email {
+        margin-left: 4px;
+    }
+    .topbar .socialicon {
+        margin-top: 14px;
+    }
+    .topbar h3 {
+        margin-top: 14px;
+    }
+    .header .button ul li a {
+        font-size: 18px;
+    }
+    .header .button {
+        padding: 9px;
+        max-width: 102px;
+        margin-top: 19px;
+        padding-top: 5px;
+        margin-left: -10px;
+    }
+    .header .manu .nav ul li a {
+        font-size: 16px;
+        padding: 6px;
+    }
+    .about .aboutus img {
+        margin-top: 48px;
+    }
+    .about .aboutus p {
+        margin-top: 5px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .about .aboutus h1 {
+        font-size: 25px;
+    }
+
+    .about .aboutus h3 {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+    .contact .cont h1 {
+        font-size: 25px;
+        margin-top: -11px;
+    }
+    .contact .cont .msg input {
+        width: 73%;
+    }
+    .footer .foot .social {
+        margin-left: 204px;
+    }
+    .footer .foot h1 {
+        margin-top: 28px;
+        margin-bottom: 12px;
+        font-size: 23px;
+    }
+
+    .footer .foot .address p {
+        padding: -4px;
+    }
+    .address {
+        margin-top: 31px;
+    }
+    .header .manu .logo img {
+    max-width: 68px;
+}
+.backend .text button {
+    font-size: 13px;
+    margin: 0px 2px;
+}
+}
+
+@media screen and (max-width: 780px) {
+    .topbar .socialicon a {
+        font-size: 16px;
+    }
+    .topbar .email {
+        margin-right: -115px;
+    }
+    .address {
+        margin-top: 72px;
+    }
+    .header .manu .nav ul li a {
+        font-size: 14px;
+    }
+
+    .service .help .col-3 {
+        padding: 18px;
+        font-size: 9px;
+    }
+    .doctors .team .item img {
+        width: 321px;
+    }
+    .footer .foot .social {
+        margin-left: 205px;
+    }
+    .footer .foot .footabout {
+        margin-top: -37px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .header .manu .nav ul li a {
+        padding: 6px;
+        font-size: 15px;
+    }
+    .department .ment .col-3 {
+        width: 180px;
+        height: 410px;
+    }
+    .doctors .team .item img {
+        width: 248px;
+    }
+
+    .footer .foot .address {
+        margin-right: 53px;
+    }
+
+    .footer .foot .social {
+        margin-left: 164px;
+    }
+
+    .footer .foot .address {
+        margin-right: -163px;
+    }
+}
+
+/*Mobile*/
+
+@media screen and (max-width: 767px) {
+    .Mobile {
+        position: sticky;
+        top: 70px;
+        left: 0px;
+    }
+    .header .main-manu {
+        display: none;
+    }
+    #mobile-manu {
+        z-index: 9999999999;
+    }
+    .mobileIcon {
+        display: block;
+        font-size: 35px;
+        float: left;
+        margin-right: 39px;
+        margin-top: 23px;
+        margin-left: 35px;
+    }
+    #mobile-manu {
+        width: 164px;
+        height: 238px;
+        background-color: #028197;
+        margin-left: -10px;
+        position: absolute;
+        padding: 20px;
+        padding-top: 11px;
+    }
+    #mobile-manu ul li {
+        list-style: none;
+        padding: 7px;
+    }
+    #mobile-manu ul li a {
+        text-decoration: none;
+        color: #0d0c0c;
+        font-size: 20px;
+    }
+    .header .button {
+        margin-top: 27px;
+        margin-left: 26px;
+        
+    }
+    #mobile-manu ul li a:hover {
+        background-color: white;
+        color: black;
+        padding: 8px 16px;
+        text-decoration: none;
+        display: block;
+      }
+    .hovermanu:hover #mobile-manu{
+        display: block;
+    }
+    .header .manu .nav ul li a {
+        margin-left: 26px;
+        width: 216px;
+        float: right;
+        color: white;
+        padding: 1px -14px;
+        font-size: 17px;
+    }
+    .service .help .col-3 {
+        line-height: 31px;
+        height: 57px;
+    }
+    .doctors .team .text h3 {
+        width: 234px;
+        font-size: 15px;
+    }
+
+    .doctors .team .text h4 {
+        width: 237px;
+    }
+
+    .contact .cont .msg input {
+        padding: 32px;
+    }
+    .contact .cont .msg input {
+        width: 79%;
+    }
+    .header .button {
+        margin-top: 27px;
+        margin-left: 350px;
+        position: absolute;
+    }
+    /* Stikey Header */
+    .Mobile{
+    position: sticky;
+    top: 70px;
+   left: 0px;
+    z-index: 9999999999;
+}
+}
+@media(max-width:753px){
+    .header .button {
+        margin-left: 338px;
+    }
+}
+
+@media screen and (max-width: 731px) {
+    .doctors .team .item img {
+        width: 282px;
+        margin-left: 18px;
+    }
+    .header .button {
+        margin-left: 356px;
+    }
+    .department .ment .col-3 {
+        width: 174px;
+    }
+    .doctors .team .text h2 {
+        width: 319px;
+    }
+    .doctors .team .text h3 {
+        width: 297px;
+    }
+    .doctors .team .text h4 {
+        width: 335px;
+    }
+    .contact .cont form input[type=submit] {
+        width: 36%;
+    }
+}
+
+@media screen and (max-width: 725px) {
+    .header .button {
+        margin-left: 314px;
+    }
+    .department .ment h2 {
+        margin: 18px;
+    }
+    .contact .cont .msg input {
+        width: 79%;
+    }
+    .department .ment .col-3 {
+        width: 188px;
+        padding: 10px;
+        height: 410px;
+        margin: 7px;
+    }
+    .department .ment h1 {
+        margin: 35px;
+        font-size: 39px;
+    }
+    .service .help h2 {
+        margin: 36px;
+        font-size: 46px;
+    }
+    .service {
+        height: 357px;
+    }
+    .team {
+        margin: 0px;
+    }
+}
+@media (max-width:704px){
+    .footer .foot .social {
+        margin-left: 135px;
+        text-align: justify;
+    }
+    .footer .foot h1 {
+        margin-top: 13px;
+        margin-bottom: 7px;
+        font-size: 20px;
+    }
+    .backend .text button {
+        font-size: 11px;
+    }
+}
+@media (max-width:691px){
+    .header .button {
+        margin-left: 310px;
+    }
+    .department .ment .col-3 {
+        height: 397px;
+        width: 178px;
+    }
+}
+
+@media screen and (max-width: 661px) {
+
+    .header .button {
+        margin-left: 289px;
+    }
+    .department .ment .col-3 {
+        width: 249px;
+        padding: 13px;
+        height: 356px;
+        margin: 8px;
+    }
+    .help {
+        margin-left: 18px;
+    }
+    .doctors .team h1 {
+        text-align: center;
+        margin: 36px;
+        font-size: 40px;
+    }
+    .mobileIcon {
+        margin-left: 47px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .topbar .name {
+        margin-left: 16px;
+    }
+    .header .manu .logo img {
+        margin-left: 27px;
+    }
+    .mobileIcon {
+        margin-left: 25px;
+    }
+    .header .button {
+        margin-left: 280px;
+        margin-top: 21px;
+    }
+    .about .aboutus h1 {
+        margin-top: -35px;
+    }
+
+    .department .ment .col-3 {
+        height: auto;
+        width: 248px;
+    }
+
+    .department .ment h1 {
+        margin-left: -16px;
+    }
+
+    .ment {
+        margin-left: 30px;
+    }
+
+    .service .help .col-3 {
+        width: 247px;
+        margin-bottom: 5px;
+    }
+    .service {
+        height: 471px;
+    }
+
+    .doctors .team .item img {
+        width: 258px;
+        margin-left: -3px;
+    }
+
+    .contact .cont .msg input {
+        width: 74%;
+    }
+    .department .ment .col-3 {
+        max-width: 235px;
+    }
+   
+    .contact .address h3 {
+        font-size: 16px;
+    }
+
+    .footer .foot .nono {
+        width: 820px;
+        text-align: center;
+    }
+    .footer .foot .footabout h1 {
+        margin-left: -18px;
+    }
+    .footer .foot .footabout p{
+        margin-left: 45px;
+    }
+    .slideshow img {
+        height: 430px;
+        width: 640px;
+    }
+    .footer .foot .onno {
+        float: left;
+        width: 739px;
+        margin-left: 44px;
+        text-align: justify;
+    }
+
+    .footer .foot .address p {
+        padding: 0px;
+    }
+    .footer .foot .onno h1 {
+        margin-left: -2px;
+        margin-top: -48px;
+    }
+    .footer .foot col-3 {
+        width: 29%;
+    }
+    .footer .foot .social {
+        margin-left: 270px;
+    }
+    
+    .footer .foot .footabout {
+        margin-top: 27px;
+    }
+    
+}
+@media screen and (max-width: 611px) {
+    .header .button {
+        margin-left: 255px;
+    }
+    .mobileIcon {
+        margin-left: 27px;
+        margin-top: 19px;
+    }
+    .help {
+        margin-left: 199px;
+    }
+    .service .help h2 {
+        margin-left: -94px;
+    }
+
+    .contact .cont .msg input {
+        width: 77%;
+    }
+    .service .help .col-3 {
+        padding: 34px;
+        font-size: 12px;
+        height: 36px;
+        margin-left: -73px;
+        width: 318px;
+    }
+    .service {
+        height: 825px;
+    }
+    .doctors .team .text h4 {
+        width: 301px;
+    }
+    .backend .text button {
+        height: 50px;
+    }
+}
+@media (max-width:600px){
+    .department .ment .col-3 {
+        max-width: 220px;
+    }
+    .about .aboutus button {
+        padding: 10px;
+        margin: 4px;
+        margin-bottom: 23px;
+    }
+    .backend .text button {
+        font-size: 13px;
+    }
+}
+@media (max-width:580px){
+    .header .button {
+        margin-left: 234px;
+    }
+}
+@media (max-width:570px){
+    .department .ment .col-3 {
+        max-width: 215px;
+    }
+    .service .help .col-3 {
+        margin-left: -103px;
+    }
+    .contact .cont form input[type=submit] {
+        width: 42%;
+    }
+    .department .ment h2 {
+        margin: 19px;
+    }
+}
+
+@media (max-width:561px) {
+    .topbar .email {
+        margin-right: 0px;
+        margin-left: 5px;
+    }
+    .topbar .socialicon {
+        justify-content: center;
+        margin-top: 16px;
+    }
+    .header .manu .logo img {
+        margin-left: 43px;
+    }
+    .header .button {
+        margin-left: 185px;
+    }
+    .mobileIcon {
+        margin-left: 54px;
+    }
+    .topbar .name h3 {
+        margin-left: -21px;
+    }
+
+    .doctors .team .item img {
+        padding: 0px;
+    }
+    .about .aboutus img {
+        margin-top: 50px;
+    }
+    .topbar .search input[type="text"] {
+        margin-left: -333px;
+        margin-top: 70px;
+    }
+    .footer h4 {
+        font-size: 13px;
+    }
+    .about .aboutus button {
+        margin-bottom: 21px;
+        margin-top: 15px;
+        padding: 11px;
+        margin: 6px;
+    }
+    .service .help .col-3 {
+        padding: 27px;
+        margin-left: -102px;
+    }
+    .service .help h2 {
+        margin-left: -168px;
+        font-size: 39px;
+    }
+    .service {
+        height: 767px;
+    }
+    .doctors .team .item img {
+        width: 260px;
+        margin-left: 20px;
+    }
+    .doctors .team .text h4 {
+        width: 273px;
+        margin-left: 8px;
+    }
+    .doctors .team .text h2 {
+        width: 289px;
+    }
+    .contact .cont h1 {
+        font-size: 20px;
+        margin-top: -17px;
+    }
+    .contact .cont .msg input {
+        width: 76%;
+    }
+    .contact .cont form input[type=submit] {
+        width: 48%;
+    }
+    .ment {
+        margin-left: 3px;
+    }
+    .footer .foot .footabout {
+        margin-top: -7px;
+    }
+    .department .ment .col-3 {
+        height: 356px;
+        padding: 8px;
+        margin: 7px;
+    }
+    .footer .foot h1 {
+        margin-top: 52px;
+    }
+    .backend .text button {
+        height: 64px;
+        font-size: 12px;
+    }
+}
+@media (max-width:548px){
+    .doctors .team h1 {
+       font-size: 34px;
+        margin-left: -98px;
+    }
+    .about .aboutus button {
+        padding: 8px;
+    }
+    .doctors .team h1 {
+        margin-left: -17px;
+    }
+    .doctors .team .item img {
+        width: 228px;
+        margin-left: -2px;
+    }
+    .doctors .team .text h2 {
+        margin-left: -18px;
+    }
+    .doctors .team .text h3 {
+        margin-left: -47px;
+    }
+    .doctors .team .text h4 {
+        margin-left: -9px;
+    }
+    .team {
+        margin-left: 11px;
+    }
+}
+@media (max-width:529px){
+    .about .aboutus button {
+        padding: 8px;
+        margin: 4px;
+        margin-bottom: 17px;
+    }
+    .header .button {
+        margin-left: 159px;
+    }   
+}
+@media (max-width:522px){
+    .team {
+        margin-left: 160px;
+    }
+    .doctors .team h1 {
+        margin-left: -131px;
+    }
+}
+@media screen and (max-width: 514px) {
+    .topbar .name a {
+        width: 50%;
+    }
+    .topbar .col-2 {
+        width: 50%;
+        float: left;
+    }
+    .topbar .socialicon {
+        justify-content: start;
+        margin-left: 20px;
+    }
+    .topbar .socialicon a {
+        color: white;
+        margin-top: -4px;
+    }
+    .topbar h3 {
+        color: white;
+    }
+    .header .button {
+        margin-left: 135px;
+    }
+    .mobileIcon {
+        margin-left: 62px;
+    }
+    .service .help .col-3 {
+        margin-left: -128px;
+    }
+    .about .aboutus {
+        margin-left: -11px;
+    }
+    .service {
+        height: 725px;
+    }
+    .doctors .team .col-3 {
+        margin-left: 150px;
+    }
+   
+    .team {
+        margin-left: -2px;
+    }
+    .doctors .team h1 {
+        margin-left: -17px;
+    }
+    .footer .foot .onno h1 {
+        margin-top: 2px;
+    }
+    .topbar .name h3 {
+        margin-left: -25px;
+    }
+
+    .contact .address {
+        margin-left: 89px;
+        width: 328px;
+    }
+    .doctors .team .item img {
+        width: 271px;
+        margin-left: -26px;
+    }
+    .doctors .team .text h2 {
+        margin-left: -58px;
+    }
+    .doctors .team .text h3 {
+        margin-left: -47px;
+    }
+    .doctors .team .text h4 {
+        margin-left: -52px;
+    }
+    .contact .cont form input {
+        width: 80%;
+    }
+    .contact .cont .address h3 {
+        margin-left: 15px;
+        font-size: 15px;
+        color: white;
+    }
+
+    .contact .cont .fa-solid {
+        font-size: 19px;
+        padding: 8px;
+    }
+    .contact .cont .msg input {
+        width: 74%;
+    }
+    .address {
+        margin-top: -4px;
+    }
+    .contact .cont form input[type=submit] {
+        width: 42%;
+    }
+
+    .contact .conts {
+        margin-left: 90px;
+    }
+    .department .ment .col-3 {
+        padding: 3px;
+        margin: 5px;
+    }
+    .col-6 {
+        width: 100%;
+        float: unset;
+    }
+    .about .aboutus img {
+        width: 86%;
+        margin-left: 43px;
+        margin-top: 26px;
+    }
+    .service .help h2 {
+        margin-top: 41px;
+        margin-bottom: 21px;
+        font-size: 39px;
+        margin-left: -151px;
+    }
+    .contact .conts {
+        margin-left: 18px;
+    }
+
+    .about .row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .order-1 {
+        order: 1;
+    }
+
+    .order-2 {
+        order: 2;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .col-4 {
+        width: 100%;
+        float: unset;
+    }
+    .header .manu .logo img {
+        margin-left: 33px;
+    }
+    .header .button {
+        margin-left: 110px;
+    }
+    .about .aboutus img {
+        margin-top: 33px;
+    }
+    .contact .cont .msg input {
+        width: 73%;
+    }
+    .topbar .search ul li {
+        margin-left: -15px;
+        font-size: 17px;
+    }
+    .mobileIcon {
+        margin-left: 42px;
+    }
+    .doctors .team .text h4 {
+        margin-left: -24px;
+    }
+    .doctors .team h1 {
+        margin-top: 39px;
+    }
+    .doctors .team .col-3 {
+        margin-left: 123px;
+    }
+    .contact .cont {     
+        margin-left: -20px;
+    }
+    .doctors .team .text h2 {
+        margin-left: -32px;
+    }
+    .slideshow img {
+        height: 288px;
+    }
+    .department .ment h1 {
+        font-size: 38px;
+        margin: 39px;
+    }
+   
+    .about .aboutus p {
+        padding-right: 81px;
+    }
+
+    .about .aboutus img {
+        width: 82%;
+        margin-left: 54px;
+    }
+    .department .ment .col-3 {
+        padding-bottom: 33px;
+         max-width: 207px;
+        margin: 11px;
+    }
+    .service .help .col-3 {
+        margin-left: -138px;
+    }
+    .help {
+        margin-bottom: 30px;
+    }
+    .footer .foot .onno h1 {
+        margin-top: 23px;
+    }
+    .backend .text button {
+        width: 42%;
+        height: 46px;
+        margin: 6px 2px;
+    }
+    .backend {
+        margin-top: 0px;
+    }
+}
+@media (max-width:472px){
+    .department .ment .col-3 {
+        height: 336px;
+        margin-bottom: 10px;
+        max-width: 400px;
+        padding: 17px;
+        margin-left: 85px;
+    }
+    .team {
+        margin-left: -11px;
+    }
+    .doctors .team h1 {
+        margin-left: -29px;
+    }
+}
+
+@media screen and (max-width:437px) {
+    .header .button {
+        margin-left: 70px;
+    }
+    .department .ment .col-3 {
+        margin-left: 51px;
+    }
+    .doctors .team h1 {
+        margin-left: 33px;
+    }
+    .footer .foot {
+        margin-left: 3px;
+    }
+}
+@media (max-width:428px){
+    .service .help .col-3 {
+        margin-left: -149px;
+        width: 259px;
+    }
+    .topbar .name a {
+        display: inline;
+    }
+}
+@media (max-width:408px){
+    .topbar .name a {
+        display: inline;
+    }
+}
+@media (max-width:400px){
+    .topbar .name a {
+        font-size: 18px;
+        float: unset;
+        display: flex;
+    }
+    .topbar .socialicon {
+        width: 100%;
+    }
+    .topbar .name a {
+        font-size: 18px;
+    }
+    .topbar .phone {
+        font-size: 18px;
+        margin-left: 5px;
+    }
+}
+
+
+@media(max-width:390px){
+    .header .button {
+        margin-left: 25px;
+    }
+    
+    .contact .cont .address h3 {
+        margin-left: -47px;
+        font-size: 16px;
+        color: white;
+        margin-bottom: 6px;
+    }
+    .service .help .col-3 {
+        width: 252px;
+        margin-left: -155px;
+    }
+    .footer .foot .social {
+        margin-left: 229px;
+    }
+    .footer .foot .onno {
+        width: 617px;
+    }
+    .team {
+        margin-left: -34px;
+    }
+}
+@media(max-width:368px){
+    .footer .foot {
+        margin-left: -9px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .about .aboutus h1 {
+        font-size: 20px;
+    }
+    .mobileIcon {
+        margin-right: 23px;
+    }
+    .header .button {
+        margin-left: 47px;
+    }
+    .about .aboutus img {
+        margin-left: 36px;
+    }
+    .department .ment .col-3 {
+        height: 344px;
+        margin-bottom: 10px;
+        max-width: 350px;
+    }
+    .department .ment .col-3 {
+        margin-left: 42px;
+    }
+    .department .ment h1 {
+        font-size: 30px;
+        margin: 20px;
+    }
+    .service .help h2 {
+        font-size: 32px;
+    }
+    .team {
+        margin-left: -69px;
+    }
+    .doctors .team h1 {
+        margin-left: 124px;
+    }
+    .service .help .col-3 {
+        margin-left: -155px;
+        width: 223px;
+        height: 56px;
+    }
+    .service {
+        height: 848px;
+    }
+    .contact .cont .msg input {
+        width: 70%;
+    }
+    .footer .foot {
+        margin-left: -26px;
+    }
+    .backend .text button {
+        width: 73%;
+        height: 42px;
+        font-size: 15px;
+    }
+    .backend .text a {
+        margin-left: -47px;
+    }
+}
+
+@media screen and (max-width:341px) {
+    .header .button {
+        margin-left: -1px;
+    }
+    .contact .cont .address h3 {
+        font-size: 13px;
+    }
+    .footer .foot {
+        margin-left: -33px;
+    }
+    .footer .foot .footabout p {
+        margin-left: 350px;
+    }
+    .department .ment .col-3 {
+        margin-left: 18px;
+    }
+    .service .help .col-3 {
+        margin-left: -171px;
+        padding: 16px;
+        height: 47px;
+        margin: 10px;
+    }
+    .col-3 {
+        width: 100%;
+        float: unset;
+    }
+    .footer .foot .nono {
+        margin-left: -242px;
+    }
+    .footer .foot .social {
+        margin-left: 355px;
+    }
+    .footer .foot .social h1 {
+        margin-top: -15px;
+    }
+    .footer .foot .onno {
+        margin-left: 79px;
+    }
+    .footer .foot .address {
+        margin-left: 32px;
+    }
+    .footer .foot .opentime {
+        margin-left: 35px;
+    }
+    .footer .foot .onno h1 {
+        margin-left: -4px;
+    }
+    .mobileIcon {
+        margin-left: 62px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header .button {
+        margin-left: -13px;
+    }
+    .about .aboutus button {    
+        margin-bottom: -6px;
+    }
+    .about .aboutus p {
+        padding-right: 18px;
+    }
+    .header .manu .logo img {
+        margin-left: 21px;
+    }
+    .service .help .col-3 {
+        margin-left: -178px;
+    }
+    .department .ment .col-3 {
+        height: 320px;
+        max-width: 250px;
+        margin-left: 14px;
+    }
+    .service .help .col-3 {
+        margin-left: -178px;
+    }
+    .contact .conts {
+        margin-left: -9px;
+    }.contact .cont .address h3 {
+        font-size: 11px;
+    }
+    .contact .cont .msg input {
+        width: 69%;
+    }
+    .contact .cont .address h3 {
+        margin-left: -36px;
+    }
+    .contact .cont {
+        margin-left: -6px;
+    }
+    .backend .text a {
+        margin-left: -25px;
+    }
+ 
+}
+/* End Responsive Design */
+
+/* Start Reg Page Responsive */
+ /* Responsive Registration */
+ @media (max-width:1200px){
+    .form {
+      margin-left: -111px;
+  }
+  .form .form{
+    margin-left: 5px;
+  }
+  }
+  @media (max-width:1100px){
+    .form {
+      margin-left: -195px;
+  }
+  }
+  @media (max-width:1000px){
+    .form {
+      margin-left: -259px;
+  }
+  }
+  @media (max-width:800px){
+  .form {
+      margin-left: -410px;
+  }
+  }
+  @media (max-width:700px){
+    .form {
+        margin-left: -442px;
+    }
+  }
+  @media (max-width:600px){
+    .form form h2{
+      width: 61%;
+  }
+  .form form input {
+      width: 62%;
+  }
+  .form form textarea#subject {
+    width: 58%;
+  }
+  }
+  @media (max-width:500px){
+    .form form h2{
+      width: 82%;
+  }
+  .form form input {
+      width: 83%;
+  }
+  .form form textarea#subject {
+      width: 79%;
+  }
+  }
+  @media (max-width:400px){
+    .form form h2{
+      width: 85%;
+  }
+  .form form input {
+      width: 87%;
+  }
+  .form form textarea#subject {
+      width: 81%;
+  }
+  }
+  @media (max-width:330px){
+    .form form h2{
+      width: 93%;
+  }
+  .form form input {
+      width: 93%;
+  }
+  .form form textarea#subject {
+      width: 85%;
+  }
+  .form form {
+    margin-left: 471px;
+}
+  }
+/* End Reg page responsive */
